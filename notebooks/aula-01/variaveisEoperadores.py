@@ -3,7 +3,7 @@ import math
 # soma, subtração, multiplicação e divisão de inteiros
 
 a = 50
-b= 30
+b = 30
 soma = a+b
 subtacao = a-b
 multiplicacao = a*b
